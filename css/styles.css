@@ -1,5 +1,23 @@
 p.intro {
     width: 75%;
-    font-style: italic
-    font-weight: bold
+    font-style: bold, italic;
+    color: yellow
+}
+p.body {
+    width: 50%;
+    font-style: italic;
+    color: powderblue
+}
+.important{
+    color: red;
+}
+h1 {
+    text-align: center
+}
+h2{
+    text-align: center
+}
+ul {
+    color: purple;
+    font-size: 600
 }
